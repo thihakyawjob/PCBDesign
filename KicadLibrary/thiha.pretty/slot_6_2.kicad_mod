@@ -1,0 +1,9 @@
+(module slot_6_2 (layer F.Cu) (tedit 5F65FF6E)
+  (fp_text reference P1 (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CONN_01X01 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole oval (at 0 0) (size 6 2) (drill oval 6 2) (layers *.Cu *.Mask))
+)
